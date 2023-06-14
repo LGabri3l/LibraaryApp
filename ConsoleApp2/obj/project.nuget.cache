@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gJMXNsaa8W7+noEV5Wznvj5X6XpjHeo+3mEquDt1zlQ36gJAGHJaDqv9GHFXDkfUlOSrjIMXLC4AofYj1wQBfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luis Gabriel\\source\\repos\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luis Gabriel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
